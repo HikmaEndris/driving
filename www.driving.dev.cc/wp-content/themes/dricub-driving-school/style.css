@@ -6302,6 +6302,7 @@ a[class*="testimonials-box-"],
 }
 .tt-box-subjects .description .btn {
   margin: 22px 34px 0 0;
+  display: none;
 }
 .tt-box-subjects:hover .img:after {
   opacity: 1;
